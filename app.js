@@ -1,4 +1,7 @@
 /**
+Devuelve verdadero si sumando dos números del arreglo `nums`
+nos da como resultado el número `x`.
+
 @param {Number[]} nums
 @param {Number} x
 @returns {boolean}
